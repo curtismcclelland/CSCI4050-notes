@@ -2,10 +2,10 @@
 
 The process of developing software is generally broken down into the following phases:
 
-- **Specification** (or **Requirements Engineering**) - defining what the system should do
-- **Design** **and** **implementation** - defining the org
+- **Specification** (or **Requirements Engineering**) - defining what the system should do, define the project goals
+- **Design** **and** **implementation** - defining the org, develop the product
 - **Validation** - checking that it does what the customer wants
-- **Evolution** - changing in response to customer needs
+- **Evolution** - changing in response to customer needs, support the product
 
  
 
