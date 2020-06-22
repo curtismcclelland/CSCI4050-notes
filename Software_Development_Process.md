@@ -7,7 +7,7 @@ The process of developing software is generally broken down into the following p
 - **Validation** - checking that it does what the customer wants
 - **Evolution** - changing in response to customer needs, support the product
 
- 
+ DEFINE -> DEVELOP -> IMPLEMENT -> TEST
 
 ### Requirements engineering 
 
