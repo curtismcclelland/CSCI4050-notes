@@ -20,10 +20,10 @@ The process of developing software is generally broken down into the following p
 
 ### Software design and implementation
 
-- Design
-- Description of structure
+- Design/Describe
+- Description of structure/Development
   
-- Implementation
+- Implementation/Support bug fixes
 
  
 
